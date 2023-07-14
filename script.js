@@ -1,7 +1,9 @@
 const users = {
   isActive: true,
-  1: {
-    name: 'norton',
-    ip: 'none'
+  12532: {
+    name: '',
+    ip: ''
   }
 }
+
+console.log('server started')
